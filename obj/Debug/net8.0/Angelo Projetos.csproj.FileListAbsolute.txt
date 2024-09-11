@@ -1,0 +1,14 @@
+C:\Angelo Projetos\bin\Debug\net8.0\Angelo Projetos.exe
+C:\Angelo Projetos\bin\Debug\net8.0\Angelo Projetos.deps.json
+C:\Angelo Projetos\bin\Debug\net8.0\Angelo Projetos.runtimeconfig.json
+C:\Angelo Projetos\bin\Debug\net8.0\Angelo Projetos.dll
+C:\Angelo Projetos\bin\Debug\net8.0\Angelo Projetos.pdb
+C:\Angelo Projetos\obj\Debug\net8.0\Angelo Projetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angelo Projetos\obj\Debug\net8.0\Angelo Projetos.AssemblyInfoInputs.cache
+C:\Angelo Projetos\obj\Debug\net8.0\Angelo Projetos.AssemblyInfo.cs
+C:\Angelo Projetos\obj\Debug\net8.0\Angelo Projetos.csproj.CoreCompileInputs.cache
+C:\Angelo Projetos\obj\Debug\net8.0\Angelo Projetos.dll
+C:\Angelo Projetos\obj\Debug\net8.0\refint\Angelo Projetos.dll
+C:\Angelo Projetos\obj\Debug\net8.0\Angelo Projetos.pdb
+C:\Angelo Projetos\obj\Debug\net8.0\Angelo Projetos.genruntimeconfig.cache
+C:\Angelo Projetos\obj\Debug\net8.0\ref\Angelo Projetos.dll
